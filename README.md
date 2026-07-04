@@ -1,0 +1,2 @@
+# deb4fda6ea0f299c-ecommerce-automated-email-sequ
+Built for e-commerce operators and online store owners who are tired of missing messages, manually responding to routine requests at all hours.  Multi-server support with per-server configuration and permission levels. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Ecommerce Automated Email Sequence B
